@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = C:/Users/dzhal/Desktop/ЧНУ/веб/1лаб/githowto/repositories/work
